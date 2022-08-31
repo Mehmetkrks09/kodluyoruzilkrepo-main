@@ -22,4 +22,5 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 ### License
 [MIT]()
 
-![Resim](https://resimyukle.imageupload.workers.dev/Xgip4gOh_2.png)
+![Resim](https://resimyukle.imageupload.workers.dev/Xgip4gOh_2.png![2](https://user-images.githubusercontent.com/77481299/187654395-5ab4e8b5-37cb-4eeb-9949-bb1bafa5f519.png)
+)
